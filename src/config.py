@@ -1,6 +1,6 @@
 from pathlib import Path
 
-INPUT_FOLDER = Path("Input")
+INPUT_FOLDER = Path("input")
 
 TABLE_SCHEMAS = {
     "outlets": [
